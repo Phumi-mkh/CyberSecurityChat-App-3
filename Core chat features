@@ -1,0 +1,3 @@
+# Commit 2 - Core chat features
+git add MainWindow.xaml MainWindow.xaml.cs
+git commit -m "Commit 2: Add core chat functionality with message bubbles, typing indicator, and keyword recognition"
