@@ -1,0 +1,3 @@
+# Commit 3 - Memory and sentiment
+git add MainWindow.xaml.cs
+git commit -m "Commit 3: Add memory feature to store user name and sentiment detection for emotions"
