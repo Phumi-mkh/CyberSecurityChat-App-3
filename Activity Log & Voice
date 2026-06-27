@@ -1,0 +1,3 @@
+# Commit 6 - Activity Log & Voice
+git add MainWindow.xaml.cs
+git commit -m "Commit 6: Add activity log tracking all bot actions, voice output toggle, and error handling"
