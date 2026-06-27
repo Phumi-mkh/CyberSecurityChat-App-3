@@ -1,0 +1,3 @@
+# Commit 4 - NLP Simulation
+git add MainWindow.xaml.cs
+git commit -m "Commit 4: Implement NLP simulation with intent recognition for tasks, reminders, quiz, and log"
