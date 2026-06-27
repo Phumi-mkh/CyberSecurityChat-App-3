@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App_MarkupCompile.cache
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\bin\Debug\net10.0-windows\CyberSecurity App.exe
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\bin\Debug\net10.0-windows\CyberSecurity App.deps.json
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\bin\Debug\net10.0-windows\CyberSecurity App.runtimeconfig.json
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\bin\Debug\net10.0-windows\CyberSecurity App.dll
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\bin\Debug\net10.0-windows\CyberSecurity App.pdb
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.g.resources
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.AssemblyInfo.cs
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.dll
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\refint\CyberSecurity App.dll
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.pdb
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.genruntimeconfig.cache
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\ref\CyberSecurity App.dll
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.sourcelink.json
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity_App.Properties.Resources.resources
+C:\Users\User\source\repos\CyberSecurity App\CyberSecurity App\obj\Debug\net10.0-windows\CyberSecurity App.csproj.GenerateResource.cache

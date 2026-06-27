@@ -1,0 +1,188 @@
+14:31:44 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+14:32:24 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+14:33:45 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+14:35:35 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+14:38:45 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+14:38:59 [User] phumi
+14:39:00 [Bot] Nice to meet you, phumi! 👋
+
+How can I help you with cybersecurity today?
+14:39:09 [User] password safty
+14:39:10 [Bot] 🔒 Here's what I know about PASSWORD:
+
+⚠️ Enable two-factor authentication for extra protection!
+
+Would you like another tip?
+14:39:17 [User] yes
+14:39:18 [Bot] 💭 I specialize in cybersecurity topics.
+
+Type 'help' to see what I can do!
+15:15:34 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+15:39:00 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+15:39:20 [User] phumi
+15:39:21 [Bot] Nice to meet you, phumi! 👋
+
+How can I help you with cybersecurity today?
+15:39:39 [User] password safty
+15:39:40 [Bot] 🔒 Here's what I know about PASSWORD:
+
+🔑 Never reuse passwords across different websites!
+
+Would you like another tip?
+15:39:59 [User] safe browsing
+15:40:00 [Bot] 🔒 Here's what I know about SAFE BROWSING:
+
+📱 Keep your browser updated to the latest version.
+
+Would you like another tip?
+15:40:25 [User] yes
+15:40:26 [Bot] 🔄 Try asking: 'Tell me about passwords' or 'What is phishing?'
+15:40:47 [User] what is phishing
+15:40:47 [Bot] 🔒 Here's what I know about PHISHING:
+
+⚠️ Legitimate companies never ask for passwords via email!
+
+Would you like another tip?
+15:42:13 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+15:42:35 [User] Phumi
+15:42:35 [Bot] Nice to meet you, Phumi! 👋
+
+How can I help you with cybersecurity today?
+15:43:02 [User] password safety
+15:43:03 [Bot] 🔒 Here's what I know about PASSWORD:
+
+⚠️ Enable two-factor authentication for extra protection!
+
+Would you like another tip?
+15:43:16 [User] yes
+15:43:17 [Bot] 🔄 Try asking: 'Tell me about passwords' or 'What is phishing?'
+15:43:37 [User] what is phishing
+15:43:38 [Bot] 🔒 Here's what I know about PHISHING:
+
+⚠️ Legitimate companies never ask for passwords via email!
+
+Would you like another tip?
+17:05:18 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+17:08:55 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
+17:23:53 [Bot] 👋 Hello! I'm your Cybersecurity Assistant.
+
+I can help you with:
+• Password safety
+• Phishing detection
+• Malware protection
+• Scam detection
+• Privacy protection
+• Two-factor authentication
+• Safe browsing
+
+What's your name?
